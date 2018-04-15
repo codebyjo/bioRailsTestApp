@@ -22,4 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# bioRailsTestApp
+# bioRailsTestApp: Testing site for bio research website
+# testing testing
